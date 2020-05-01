@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Programación\Bus_Station\obj\Debug\netcoreapp3.1\Bus_Station.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Programación\Bus_Station\obj\Debug\netcoreapp3.1\Bus_Station.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Programación\Bus_Station\obj\Debug\netcoreapp3.1\Bus_Station.AssemblyInfo.cs
+C:\Users\Paul\Documents\Programación\Bus_Station\bin\Debug\netcoreapp3.1\Bus_Station.exe
+C:\Users\Paul\Documents\Programación\Bus_Station\bin\Debug\netcoreapp3.1\Bus_Station.deps.json
+C:\Users\Paul\Documents\Programación\Bus_Station\bin\Debug\netcoreapp3.1\Bus_Station.runtimeconfig.json
+C:\Users\Paul\Documents\Programación\Bus_Station\bin\Debug\netcoreapp3.1\Bus_Station.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Programación\Bus_Station\bin\Debug\netcoreapp3.1\Bus_Station.dll
+C:\Users\Paul\Documents\Programación\Bus_Station\bin\Debug\netcoreapp3.1\Bus_Station.pdb
+C:\Users\Paul\Documents\Programación\Bus_Station\obj\Debug\netcoreapp3.1\Bus_Station.dll
+C:\Users\Paul\Documents\Programación\Bus_Station\obj\Debug\netcoreapp3.1\Bus_Station.pdb
